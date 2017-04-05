@@ -1,8 +1,8 @@
-baseurl = "http://goobalives.github.io"
+baseurl = "https://jess-website-4e683.firebaseapp.com/"
 languageCode = "en-us"
 title = "Jess Garfield Carpentry"
 theme = "hugo-creative-theme"
-publishDir = "docs"
+# publishDir = "docs"
 
 [params]
 

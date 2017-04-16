@@ -1,4 +1,4 @@
-baseurl = "https://localhost:1313/"
+baseurl = "https://jess-website-4e683.firebaseapp.com/"
 languageCode = "en-us"
 title = "Jess Garfield Carpentry"
 theme = "hugo-creative-theme"

@@ -74,7 +74,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
@@ -216,11 +216,8 @@ header .header-content .header-content-inner hr {
 }
 
 header .header-content .header-content-inner p {
-    font-family: 'Lora', serif; 
-    /*font-size: 28px;*/
-    /*margin-bottom: 50px;*/
-    font-size: 30px;
-    font-weight: 400;
+    font-family: 'Lora', serif;
+    font-size: 28px;
     color: rgba(255,255,255,.9);
     text-shadow: 3px 3px 3px #111;
 }
@@ -242,14 +239,14 @@ header .header-content .header-content-inner p {
     header .header-content .header-content-inner {
         margin-right: auto;
         margin-left: auto;
-        max-width: 1000px;
+        max-width: 1200px;
     }
 
     header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        font-size: 36px;
     }
 }
 

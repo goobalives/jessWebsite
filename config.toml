@@ -48,52 +48,52 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "Jess Garfield"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "As a Tamborine Mountain local, Jess has been providing honest, quality carpendry services to residents for 15 years -- specialising in decks and patios, shed conversions, bathrooms and kitchens."
 		buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Quality Craftmenship"
 
-        [[params.services.list]]
-          icon = "fa-bath"
-          title = "Bathrooms"
-          description = "Our templates are updated regularly so they don't break."
+			[[params.services.list]]
+				icon = "fa-check"
+				title = "Patios and Pagodas"
+				description = "Experienced in the precision design & build of patios & pagodas."
 
-        [[params.services.list]]
-					icon = "fa-check"
-					title = "Patios and Pagodas"
-					description = "You can use this theme as is, or you can make changes!"
+      [[params.services.list]]
+        icon = "fa-check"
+        title = "Bathrooms"
+        description = "Jess can design and build your dream bathroom."
 
-				[[params.services.list]]
-          icon = "fa-check"
-          title = "Up to Date"
-          description = "We update dependencies to keep things fresh."
+			[[params.services.list]]
+        icon = "fa-check"
+        title = "Shed conversions & granny flats"
+        description = "Need extra space? Jess has completed a number of high-quality conversions."
 
-        [[params.services.list]]
-          icon = "fa-heart"
-          title = "All Made with Love"
-          description = "You have to make your websites with love these days!"
+      [[params.services.list]]
+        icon = "fa-heart"
+        title = "All Made with Love"
+        description = "... to specificaton and budget!"
 
     # Portfolio modals
 	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
+        # client = "Client"
+        # date = "Date"
         category = "Category"
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+	# [params.aside]
+	# 	headline = "Get the Creative Theme for Hugo"
+	#
+	# 	[params.aside.button]
+	# 		text = "Download now"
+	# 		link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		headline = "Contact Jess for a free quote"
+		description = "Jess would be happy to provide you with a competitive, no-obligation quote. Additional portfolio photos and references available on request."
+		phone = "0422 272 463"
+		email = "jessgarfield@hotmail.com"
